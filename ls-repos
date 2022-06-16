@@ -1,0 +1,19 @@
+  
+#!/bin/bash
+USER_OR_ORG=$1  
+if [ -z "$USER_OR_ORG" ]
+then
+      USER_OR_ORG=redhat-developer
+fi 
+PW=$(mktemp)
+echo none >$PW
+REPOS=$(mktemp)
+for i in {1..10}
+do
+curl -u "$MY_GITHUB_USER" -s "https://api.github.com/users/$USER_OR_ORG/repos?per_page=100&page=$i" <$PW > $REPOS
+ERR=$?
+    cat $REPOS | 
+    jq -r ".[].html_url"   | \
+    grep -v "jq:" | \
+    dos2unix   
+done

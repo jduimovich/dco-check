@@ -1,0 +1,19 @@
+
+
+CONTRIB=$(mktemp)
+FULLREPO=$1
+REPO=$(basename $FULLREPO) 
+ORG=$(echo $REPO | cut -d '/' -f 4)
+URL=https://raw.githubusercontent.com/$ORG/$REPO/main/CONTRIBUTING 
+DCO_TEXT="This project requires the Developer Certificate of Origin (DCO)"
+curl -s $URL > $CONTRIB 
+ if cat "$CONTRIB" |  grep -q "404: Not Found"; then
+    echo "$FULLREPO is missing proper DCO text and has no CONTRIBUTING file" 
+    exit 0
+fi 
+cat $CONTRIB
+ if cat "$CONTRIB" | grep -q "$DCO_TEXT"; then
+    echo "$FULLREPO has proper DCO text in CONTRIBUTING"
+else 
+    echo "$FULLREPO is missing proper DCO text in CONTRIBUTING"
+fi
