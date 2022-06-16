@@ -4,7 +4,7 @@ CONTRIB=$(mktemp)
 FULLREPO=$1
 REPO=$(basename $FULLREPO) 
 ORG=$(echo $FULLREPO | cut -d '/' -f 4) 
-URL=https://raw.githubusercontent.com/$ORG/$REPO/main/CONTRIBUTING 
+URL=https://raw.githubusercontent.com/$ORG/$REPO/main/CONTRIBUTING.md 
 DCO_TEXT="This project requires the Developer Certificate of Origin (DCO)"
 curl -s $URL > $CONTRIB 
  if cat "$CONTRIB" |  grep -q "404: Not Found"; then
