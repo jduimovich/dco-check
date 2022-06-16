@@ -2,6 +2,12 @@
  
 CONTRIB=$(mktemp)
 FULLREPO=$1
+if [ -z "$FULLREPO" ]
+then
+      echo "Usage $0 repo-url"
+      exit 0
+fi 
+
 REPO=$(basename $FULLREPO) 
 REPO="${REPO%.*}"
 ORG=$(echo $FULLREPO | cut -d '/' -f 4) 
@@ -11,7 +17,7 @@ DCO_TEXT="This project requires the Developer Certificate of Origin (DCO)"
 curl -s $URL > $CONTRIB 
 HAS_FILE=yes
 HAS_DCO=no 
- if cat "$CONTRIB" |  grep -q "404: Not Found"; then 
+if cat "$CONTRIB" |  grep -q "404: Not Found"; then 
     HAS_FILE=no
 else 
     if cat "$CONTRIB" | grep -q "$DCO_TEXT"; then
