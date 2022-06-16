@@ -1,184 +1,184 @@
-                                  alizer: CONTRIBUTING.md:  yes DCO:   no
-                           almighty-core: CONTRIBUTING.md:   no DCO:   no
-                              app-labels: CONTRIBUTING.md:   no DCO:   no
-                             app-service: CONTRIBUTING.md:   no DCO:   no
-             app-services-api-guidelines: CONTRIBUTING.md:   no DCO:   no
-                        app-services-cli: CONTRIBUTING.md:  yes DCO:   no
-                   app-services-examples: CONTRIBUTING.md:   no DCO:   no
-                  app-services-go-linter: CONTRIBUTING.md:   no DCO:   no
-         app-services-grafana-dashboards: CONTRIBUTING.md:   no DCO:   no
-                     app-services-guides: CONTRIBUTING.md:   no DCO:   no
-   app-services-openshift-console-plugin: CONTRIBUTING.md:  yes DCO:   no
-                   app-services-operator: CONTRIBUTING.md:   no DCO:   no
-            app-services-renovate-config: CONTRIBUTING.md:   no DCO:   no
-                     app-services-sdk-go: CONTRIBUTING.md:  yes DCO:   no
-                   app-services-sdk-java: CONTRIBUTING.md:  yes DCO:   no
-                     app-services-sdk-js: CONTRIBUTING.md:  yes DCO:   no
-                      app-services-tools: CONTRIBUTING.md:   no DCO:   no
-                         app-services-ui: CONTRIBUTING.md:  yes DCO:   no
-              app-services-ui-components: CONTRIBUTING.md:  yes DCO:   no
-                  app-services-ui-shared: CONTRIBUTING.md:   no DCO:   no
-                    app-services-website: CONTRIBUTING.md:   no DCO:   no
-  application-services-metering-operator: CONTRIBUTING.md:   no DCO:   no
-               application-stack-samples: CONTRIBUTING.md:   no DCO:   no
-                                  blinkr: CONTRIBUTING.md:   no DCO:   no
-                      broken-link-checks: CONTRIBUTING.md:   no DCO:   no
-                         che-dockerfiles: CONTRIBUTING.md:   no DCO:   no
-                    che-functional-tests: CONTRIBUTING.md:   no DCO:   no
-                          che-monitoring: CONTRIBUTING.md:   no DCO:   no
-                             che-starter: CONTRIBUTING.md:   no DCO:   no
-                 che-starter-performance: CONTRIBUTING.md:   no DCO:   no
-                        che-vertx-server: CONTRIBUTING.md:   no DCO:   no
-  che-workspace-telemetry-woopra-backend: CONTRIBUTING.md:   no DCO:   no
-                            cheat-sheets: CONTRIBUTING.md:   no DCO:   no
-                     code.quarkus.redhat: CONTRIBUTING.md:   no DCO:   no
-                     code.quarkus.redhat: CONTRIBUTING.md:   no DCO:   no
-         codeready-workspaces-deprecated: CONTRIBUTING.md:   no DCO:   no
-           codeready-workspaces-operator: CONTRIBUTING.md:   no DCO:   no
-           codeready-workspaces-workshop: CONTRIBUTING.md:   no DCO:   no
-                             cp-patterns: CONTRIBUTING.md:   no DCO:   no
-                             dcp-checker: CONTRIBUTING.md:   no DCO:   no
-                     design-manual-proto: CONTRIBUTING.md:   no DCO:   no
-                          devconsole-api: CONTRIBUTING.md:   no DCO:   no
-                          devconsole-git: CONTRIBUTING.md:   no DCO:   no
-                     devconsole-operator: CONTRIBUTING.md:   no DCO:   no
-                       developers.redhat: CONTRIBUTING.md:   no DCO:   no
-                       developers.redhat: CONTRIBUTING.md:   no DCO:   no
-                                 devfile: CONTRIBUTING.md:   no DCO:   no
-                        devfile-registry: CONTRIBUTING.md:  yes DCO:   no
-                          devfile-sample: CONTRIBUTING.md:   no DCO:   no
-                               devspaces: CONTRIBUTING.md:   no DCO:   no
-                        devspaces-chectl: CONTRIBUTING.md:   no DCO:   no
-                        devspaces-images: CONTRIBUTING.md:   no DCO:   no
-                      devspaces-jiralint: CONTRIBUTING.md:   no DCO:   no
-                         devspaces-theia: CONTRIBUTING.md:   no DCO:   no
-             devspaces-vscode-extensions: CONTRIBUTING.md:   no DCO:   no
-                            dotnet-bunny: CONTRIBUTING.md:   no DCO:   no
-                dotnet-bunny-log-browser: CONTRIBUTING.md:   no DCO:   no
-                    dotnet-jenkins-slave: CONTRIBUTING.md:   no DCO:   no
-                    dotnet-regular-tests: CONTRIBUTING.md:   no DCO:   no
-                           eclipse-theia: CONTRIBUTING.md:   no DCO:   no
-                                     fus: CONTRIBUTING.md:   no DCO:   no
-                             git-service: CONTRIBUTING.md:   no DCO:   no
-                          gitops-backend: CONTRIBUTING.md:   no DCO:   no
-                    gitops-commit-status: CONTRIBUTING.md:   no DCO:   no
-                         gitops-operator: CONTRIBUTING.md:   no DCO:   no
-                     gitops-repo-example: CONTRIBUTING.md:   no DCO:   no
-                                 go-init: CONTRIBUTING.md:   no DCO:   no
-                                    gulp: CONTRIBUTING.md:   no DCO:   no
-                                    helm: CONTRIBUTING.md:   no DCO:   no
-                 helm-acceptance-testing: CONTRIBUTING.md:   no DCO:   no
-                               helm-dump: CONTRIBUTING.md:   no DCO:   no
-                        helm-quickstarts: CONTRIBUTING.md:   no DCO:   no
-                 helm-repository-service: CONTRIBUTING.md:   no DCO:   no
-                                   henge: CONTRIBUTING.md:   no DCO:   no
-                         intellij-common: CONTRIBUTING.md:   no DCO:   no
-         intellij-common-ui-test-library: CONTRIBUTING.md:  yes DCO:   no
-           intellij-dependency-analytics: CONTRIBUTING.md:   no DCO:   no
-                      intellij-functions: CONTRIBUTING.md:   no DCO:   no
-                        intellij-knative: CONTRIBUTING.md:  yes DCO:   no
-                     intellij-kubernetes: CONTRIBUTING.md:  yes DCO:   no
-            intellij-openshift-connector: CONTRIBUTING.md:  yes DCO:   no
-                        intellij-quarkus: CONTRIBUTING.md:   no DCO:   no
-               intellij-redhat-telemetry: CONTRIBUTING.md:   no DCO:   no
-                            intellij-rsp: CONTRIBUTING.md:   no DCO:   no
-                         intellij-tekton: CONTRIBUTING.md:  yes DCO:   no
-           introduction-to-eclipse-vertx: CONTRIBUTING.md:   no DCO:   no
-                   jenkins-image-builder: CONTRIBUTING.md:   no DCO:   no
-          jenkins-old-community-operator: CONTRIBUTING.md:   no DCO:   no
-                        jenkins-operator: CONTRIBUTING.md:   no DCO:   no
-                 jenkins-operator-bundle: CONTRIBUTING.md:   no DCO:   no
-                   jenkins-operator-docs: CONTRIBUTING.md:   no DCO:   no
-              jenkins-operator-manifests: CONTRIBUTING.md:   no DCO:   no
-                 jetbrains-editor-images: CONTRIBUTING.md:   no DCO:   no
-                             k8s-kubectl: CONTRIBUTING.md:   no DCO:   no
-                             k8s-sidecar: CONTRIBUTING.md:   no DCO:   no
-                                     kam: CONTRIBUTING.md:   no DCO:   no
-                 kestrel-linux-transport: CONTRIBUTING.md:   no DCO:   no
-                              kubernetes: CONTRIBUTING.md:   no DCO:   no
-                 kubernetes-image-puller: CONTRIBUTING.md:   no DCO:   no
-                    lab-docker-jboss-eap: CONTRIBUTING.md:   no DCO:   no
-                 message-tagging-service: CONTRIBUTING.md:   no DCO:   no
-                      microservices-book: CONTRIBUTING.md:   no DCO:   no
-         microservices-by-example-source: CONTRIBUTING.md:   no DCO:   no
-                 moksha-monitor-exporter: CONTRIBUTING.md:   no DCO:   no
-                 netcoredbg-theia-plugin: CONTRIBUTING.md:   no DCO:   no
-                              nfs-server: CONTRIBUTING.md:   no DCO:   no
-                  observability-operator: CONTRIBUTING.md:   no DCO:   no
-                                     odo: CONTRIBUTING.md:   no DCO:   no
-                          odo-init-image: CONTRIBUTING.md:   no DCO:   no
-                  omnisharp-theia-plugin: CONTRIBUTING.md:   no DCO:   no
-                             opencompose: CONTRIBUTING.md:   no DCO:   no
-                         opencompose-old: CONTRIBUTING.md:   no DCO:   no
-                       openshift-actions: CONTRIBUTING.md:   no DCO:   no
-            openshift-app-services-demos: CONTRIBUTING.md:   no DCO:   no
-                        openshift-dd-ext: CONTRIBUTING.md:   no DCO:   no
-        openshift-gitops-getting-started: CONTRIBUTING.md:   no DCO:   no
-              openshift-jenkins-operator: CONTRIBUTING.md:   no DCO:   no
-              openshift-kustomizeconfigs: CONTRIBUTING.md:   no DCO:   no
-                          openshift-vsts: CONTRIBUTING.md:   no DCO:   no
-    openshift-web-console-customizations: CONTRIBUTING.md:   no DCO:   no
-                         osd-monitor-poc: CONTRIBUTING.md:   no DCO:   no
-                     patternfly-elements: CONTRIBUTING.md:  yes DCO:   no
-                  presentation-recording: CONTRIBUTING.md:   no DCO:   no
-                                 pysmime: CONTRIBUTING.md:   no DCO:   no
-                              quarkus-ls: CONTRIBUTING.md:   no DCO:   no
-          reactive-microservices-in-java: CONTRIBUTING.md:   no DCO:   no
-               redhat-datagrid-tutorials: CONTRIBUTING.md:   no DCO:   no
-                      redhat-helm-charts: CONTRIBUTING.md:   no DCO:   no
-                         redhat-sso-boms: CONTRIBUTING.md:   no DCO:   no
-                  redhat-sso-quickstarts: CONTRIBUTING.md:   no DCO:   no
-                                  rh-che: CONTRIBUTING.md:   no DCO:   no
-                      rhd-article-extras: CONTRIBUTING.md:   no DCO:   no
-                            rhd-frontend: CONTRIBUTING.md:   no DCO:   no
-                   rhd-performance-tests: CONTRIBUTING.md:   no DCO:   no
-                            rhdp-httrack: CONTRIBUTING.md:   no DCO:   no
-                     rpm-packaging-guide: CONTRIBUTING.md:   no DCO:   no
-                              rsp-client: CONTRIBUTING.md:   no DCO:   no
-                              rsp-server: CONTRIBUTING.md:   no DCO:   no
-                    rsp-server-community: CONTRIBUTING.md:   no DCO:   no
-                s2i-aspnet-musicstore-ex: CONTRIBUTING.md:   no DCO:   no
-                          s2i-dotnetcore: CONTRIBUTING.md:   no DCO:   no
-                       s2i-dotnetcore-ex: CONTRIBUTING.md:   no DCO:   no
-            s2i-dotnetcore-persistent-ex: CONTRIBUTING.md:   no DCO:   no
-              sbo-services-investigation: CONTRIBUTING.md:   no DCO:   no
-                service-binding-operator: CONTRIBUTING.md:   no DCO:   no
-     service-binding-operator-helm-chart: CONTRIBUTING.md:   no DCO:   no
-      service-binding-operator-manifests: CONTRIBUTING.md:   no DCO:   no
-             service-endpoint-definition: CONTRIBUTING.md:   no DCO:   no
-                       srs-fleet-manager: CONTRIBUTING.md:  yes DCO:   no
-                                stickers: CONTRIBUTING.md:   no DCO:   no
-                  tekton-chatops-example: CONTRIBUTING.md:   no DCO:   no
-                              tekton-hub: CONTRIBUTING.md:   no DCO:   no
-                        topology-example: CONTRIBUTING.md:   no DCO:   no
-                                 traefik: CONTRIBUTING.md:   no DCO:   no
-           vertx-quickstart-eventbus-msa: CONTRIBUTING.md:   no DCO:   no
-               vertx-quickstart-http-msa: CONTRIBUTING.md:   no DCO:   no
-                  vertx-quickstart-plain: CONTRIBUTING.md:   no DCO:   no
-                    vertx-quickstart-web: CONTRIBUTING.md:   no DCO:   no
-                          vscode-commons: CONTRIBUTING.md:   no DCO:   no
-                           vscode-didact: CONTRIBUTING.md:   no DCO:   no
-                 vscode-extension-tester: CONTRIBUTING.md:   no DCO:   no
-                             vscode-java: CONTRIBUTING.md:   no DCO:   no
-                          vscode-knative: CONTRIBUTING.md:  yes DCO:   no
-                 vscode-kubernetes-tools: CONTRIBUTING.md:   no DCO:   no
-                     vscode-microprofile: CONTRIBUTING.md:   no DCO:   no
-         vscode-openshift-extension-pack: CONTRIBUTING.md:   no DCO:   no
-                  vscode-openshift-tools: CONTRIBUTING.md:  yes DCO:   no
-              vscode-project-initializer: CONTRIBUTING.md:   no DCO:   no
-                          vscode-quarkus: CONTRIBUTING.md:   no DCO:   no
-                   vscode-redhat-account: CONTRIBUTING.md:   no DCO:   no
-                 vscode-redhat-telemetry: CONTRIBUTING.md:   no DCO:   no
-                            vscode-rhoas: CONTRIBUTING.md:   no DCO:   no
-                           vscode-rsp-ui: CONTRIBUTING.md:  yes DCO:   no
-                 vscode-server-connector: CONTRIBUTING.md:   no DCO:   no
-             vscode-server-connector-api: CONTRIBUTING.md:   no DCO:   no
-                           vscode-tekton: CONTRIBUTING.md:  yes DCO:   no
-                           vscode-wizard: CONTRIBUTING.md:   no DCO:   no
-                              vscode-xml: CONTRIBUTING.md:   no DCO:   no
-                             vscode-yaml: CONTRIBUTING.md:  yes DCO:   no
-                       web-terminal-exec: CONTRIBUTING.md:  yes DCO:   no
-                   web-terminal-operator: CONTRIBUTING.md:   no DCO:   no
-                    web-terminal-tooling: CONTRIBUTING.md:   no DCO:   no
-                         yaml-ast-parser: CONTRIBUTING.md:   no DCO:   no
-                    yaml-language-server: CONTRIBUTING.md:   no DCO:   no
+https://github.com/redhat-developer/alizer: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/almighty-core: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-labels: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-service: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-api-guidelines: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-cli: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-examples: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-go-linter: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-grafana-dashboards: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-guides: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-openshift-console-plugin: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-renovate-config: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-sdk-go: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-sdk-java: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-sdk-js: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-tools: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-ui: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-ui-components: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-ui-shared: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/app-services-website: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/application-services-metering-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/application-stack-samples: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/blinkr: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/broken-link-checks: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-dockerfiles: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-functional-tests: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-monitoring: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-starter: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-starter-performance: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-vertx-server: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/che-workspace-telemetry-woopra-backend: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/cheat-sheets: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/code.quarkus.redhat.com: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/code.quarkus.redhat.com-release: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/codeready-workspaces-deprecated: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/codeready-workspaces-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/codeready-workspaces-workshop: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/cp-patterns: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/dcp-checker: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/design-manual-proto: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devconsole-api: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devconsole-git: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devconsole-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/developers.redhat.com: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/developers.redhat.com-email-templates: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devfile: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devfile-registry: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devfile-sample: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devspaces: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devspaces-chectl: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devspaces-images: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devspaces-jiralint: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devspaces-theia: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/devspaces-vscode-extensions: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/dotnet-bunny: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/dotnet-bunny-log-browser: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/dotnet-jenkins-slave: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/dotnet-regular-tests: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/eclipse-theia: CONTRIBUTING.md:  yes DCO:  yes
+ https://github.com/redhat-developer/fus: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/git-service: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/gitops-backend: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/gitops-commit-status: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/gitops-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/gitops-repo-example: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/go-init: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/gulp: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/helm: CONTRIBUTING.md:  yes DCO:  yes
+https://github.com/redhat-developer/helm-acceptance-testing: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/helm-dump: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/helm-quickstarts: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/helm-repository-service: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/henge: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-common: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-common-ui-test-library: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-dependency-analytics: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-functions: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-knative: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-kubernetes: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-openshift-connector: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-quarkus: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-redhat-telemetry: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-rsp: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/intellij-tekton: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/introduction-to-eclipse-vertx: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jenkins-image-builder: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jenkins-old-community-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jenkins-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jenkins-operator-bundle: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jenkins-operator-docs: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jenkins-operator-manifests: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/jetbrains-editor-images: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/k8s-kubectl: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/k8s-sidecar: CONTRIBUTING.md:  yes DCO:   no
+ https://github.com/redhat-developer/kam: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/kestrel-linux-transport: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/kubernetes: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/kubernetes-image-puller: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/lab-docker-jboss-eap: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/message-tagging-service: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/microservices-book: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/microservices-by-example-source: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/moksha-monitor-exporter: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/netcoredbg-theia-plugin: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/nfs-server: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/observability-operator: CONTRIBUTING.md:  yes DCO:   no
+ https://github.com/redhat-developer/odo: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/odo-init-image: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/omnisharp-theia-plugin: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/opencompose: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/opencompose-old: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-actions: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-app-services-demos: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-dd-ext: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-gitops-getting-started: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-jenkins-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-kustomizeconfigs: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-vsts: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/openshift-web-console-customizations: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/osd-monitor-poc: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/patternfly-elements: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/presentation-recording: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/pysmime: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/quarkus-ls: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/reactive-microservices-in-java: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/redhat-datagrid-tutorials: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/redhat-helm-charts: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/redhat-sso-boms: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/redhat-sso-quickstarts: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rh-che: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rhd-article-extras: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rhd-frontend: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rhd-performance-tests: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rhdp-httrack: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rpm-packaging-guide: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rsp-client: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rsp-server: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/rsp-server-community: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/s2i-aspnet-musicstore-ex: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/s2i-dotnetcore: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/s2i-dotnetcore-ex: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/s2i-dotnetcore-persistent-ex: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/sbo-services-investigation: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/service-binding-operator: CONTRIBUTING.md:  yes DCO:  yes
+https://github.com/redhat-developer/service-binding-operator-helm-chart: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/service-binding-operator-manifests: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/service-endpoint-definition: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/srs-fleet-manager: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/stickers: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/tekton-chatops-example: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/tekton-hub: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/topology-example: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/traefik: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vertx-quickstart-eventbus-msa: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vertx-quickstart-http-msa: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vertx-quickstart-plain: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vertx-quickstart-web: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-commons: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-didact: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-extension-tester: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-java: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-knative: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-kubernetes-tools: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-microprofile: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-openshift-extension-pack: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-openshift-tools: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-project-initializer: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-quarkus: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-redhat-account: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-redhat-telemetry: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-rhoas: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-rsp-ui: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-server-connector: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-server-connector-api: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-tekton: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-wizard: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-xml: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/vscode-yaml: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/web-terminal-exec: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/web-terminal-operator: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/web-terminal-tooling: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/yaml-ast-parser: CONTRIBUTING.md:  yes DCO:   no
+https://github.com/redhat-developer/yaml-language-server: CONTRIBUTING.md:  yes DCO:   no
