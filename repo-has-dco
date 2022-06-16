@@ -8,20 +8,39 @@ then
       exit 0
 fi 
 
+fetch_file () { 
+  REPO=$1 
+  FILE=$2
+  OUT=$3
+  USER=$(echo $REPO | cut -d '/' -f 4)
+  PROJECT=$(echo $REPO | cut -d '/' -f 5)
+  for BRANCH in main master
+  do   
+    URL="https://raw.githubusercontent.com/$USER/$PROJECT/$BRANCH/$FILE" 
+    if curl  -H "Cache-Control: no-cache" --output $OUT --silent   --fail "$URL"; then
+        return;  
+    fi 
+  done  
+}   
+
 REPO=$(basename $FULLREPO) 
 REPO="${REPO%.*}"
 ORG=$(echo $FULLREPO | cut -d '/' -f 4) 
 CONTRIB_FILENAME=CONTRIBUTING.md 
 URL=https://raw.githubusercontent.com/$ORG/$REPO/main/$CONTRIB_FILENAME
 DCO_TEXT="This project requires the Developer Certificate of Origin (DCO)"
-curl -s $URL > $CONTRIB 
+fetch_file $FULLREPO $CONTRIB_FILENAME $CONTRIB 
 HAS_FILE=yes
 HAS_DCO=no 
 if cat "$CONTRIB" |  grep -q "404: Not Found"; then 
     HAS_FILE=no
-else 
+else  
     if cat "$CONTRIB" | grep -q "$DCO_TEXT"; then
         HAS_DCO=yes 
     fi
+    if cat "$CONTRIB" | grep -q "developercertificate.org"; then
+        HAS_DCO=yes 
+    fi
+    
 fi  
 printf "%40s: $CONTRIB_FILENAME: %4s DCO: %4s\n" $REPO $HAS_FILE $HAS_DCO
