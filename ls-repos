@@ -1,5 +1,6 @@
   
 #!/bin/bash
+# use this to build a cached list, so you don't hit github limits
 USER_OR_ORG=$1  
 if [ -z "$USER_OR_ORG" ]
 then
