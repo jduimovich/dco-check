@@ -43,4 +43,4 @@ else
     fi
     
 fi  
-printf "%40s: $CONTRIB_FILENAME: %4s DCO: %4s\n" $REPO $HAS_FILE $HAS_DCO
+printf "%40s: $CONTRIB_FILENAME:%s DCO:%s\n" $REPO $HAS_FILE $HAS_DCO
