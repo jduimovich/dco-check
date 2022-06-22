@@ -181,4 +181,4 @@ https://github.com/redhat-developer/web-terminal-exec: CONTRIBUTING.md:yes DCO:n
 https://github.com/redhat-developer/web-terminal-operator: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/web-terminal-tooling: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/yaml-ast-parser: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/yaml-language-server: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/yaml-language-server: CONTRIBUTING.md:yes DCO:yes

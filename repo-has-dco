@@ -29,13 +29,18 @@ ORG=$(echo $FULLREPO | cut -d '/' -f 4)
 CONTRIB_FILENAME=CONTRIBUTING.md 
 URL=https://raw.githubusercontent.com/$ORG/$REPO/main/$CONTRIB_FILENAME
 DCO_TEXT="This project requires the Developer Certificate of Origin (DCO)"
+DCO_TEXT1="By contributing to this project you agree to the Developer Certificate of
+Origin (DCO)."
 fetch_file $FULLREPO $CONTRIB_FILENAME $CONTRIB 
 HAS_FILE=yes
-HAS_DCO=no 
+HAS_DCO=no  
 if cat "$CONTRIB" |  grep -q "404: Not Found"; then 
     HAS_FILE=no
 else  
     if cat "$CONTRIB" | grep -q "$DCO_TEXT"; then
+        HAS_DCO=yes 
+    fi
+    if cat "$CONTRIB" | grep -q "$DCO_TEXT1"; then
         HAS_DCO=yes 
     fi
     if cat "$CONTRIB" | grep -q "developercertificate.org"; then
