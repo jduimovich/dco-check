@@ -34,7 +34,7 @@ jobs:
           git config --global user.name "Auto-Push[bot]"
           git config --global user.email "auto-push@users.noreply.github.com" 
           if git diff --quiet dco.xml; then
-            echo "No significant changes"
+            echo "No changes to dco.xml"
           else 
             echo "dco.xml Chances"
             git add dco.xml
