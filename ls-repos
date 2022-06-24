@@ -6,12 +6,11 @@ if [ -z "$USER_OR_ORG" ]
 then
       USER_OR_ORG=redhat-developer
 fi 
-PW=$(mktemp)
-echo none >$PW
+PW=$(mktemp) 
 REPOS=$(mktemp)
 for i in {1..10}
 do
-curl -u "$MY_GITHUB_USER" -s "https://api.github.com/users/$USER_OR_ORG/repos?per_page=100&page=$i" <$PW > $REPOS
+curl  -s "https://api.github.com/users/$USER_OR_ORG/repos?per_page=100&page=$i" > $REPOS
 ERR=$?
     cat $REPOS | 
     jq -r ".[].html_url"   | \

@@ -73,11 +73,11 @@ https://github.com/redhat-developer/helm-quickstarts: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/helm-repository-service: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/henge: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/intellij-common: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/intellij-common-ui-test-library: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/intellij-common-ui-test-library: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/intellij-dependency-analytics: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/intellij-functions: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/intellij-knative: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/intellij-kubernetes: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/intellij-knative: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/intellij-kubernetes: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/intellij-openshift-connector: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/intellij-quarkus: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/intellij-redhat-telemetry: CONTRIBUTING.md:yes DCO:no
@@ -105,7 +105,7 @@ https://github.com/redhat-developer/moksha-monitor-exporter: CONTRIBUTING.md:yes
 https://github.com/redhat-developer/netcoredbg-theia-plugin: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/nfs-server: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/observability-operator: CONTRIBUTING.md:yes DCO:no
- https://github.com/redhat-developer/odo: CONTRIBUTING.md:yes DCO:no
+ https://github.com/redhat-developer/odo: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/odo-init-image: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/omnisharp-theia-plugin: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/opencompose: CONTRIBUTING.md:yes DCO:no
@@ -122,7 +122,7 @@ https://github.com/redhat-developer/osd-monitor-poc: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/patternfly-elements: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/presentation-recording: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/pysmime: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/quarkus-ls: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/quarkus-ls: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/reactive-microservices-in-java: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/redhat-datagrid-tutorials: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/redhat-helm-charts: CONTRIBUTING.md:yes DCO:no
@@ -158,15 +158,15 @@ https://github.com/redhat-developer/vertx-quickstart-plain: CONTRIBUTING.md:yes 
 https://github.com/redhat-developer/vertx-quickstart-web: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-commons: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-didact: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/vscode-extension-tester: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/vscode-java: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/vscode-extension-tester: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/vscode-java: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/vscode-knative: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-kubernetes-tools: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/vscode-microprofile: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/vscode-microprofile: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/vscode-openshift-extension-pack: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-openshift-tools: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-project-initializer: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/vscode-quarkus: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/vscode-quarkus: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/vscode-redhat-account: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-redhat-telemetry: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-rhoas: CONTRIBUTING.md:yes DCO:no
@@ -175,8 +175,8 @@ https://github.com/redhat-developer/vscode-server-connector: CONTRIBUTING.md:yes
 https://github.com/redhat-developer/vscode-server-connector-api: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-tekton: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vscode-wizard: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/vscode-xml: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/vscode-yaml: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/vscode-xml: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/vscode-yaml: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/web-terminal-exec: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/web-terminal-operator: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/web-terminal-tooling: CONTRIBUTING.md:yes DCO:no

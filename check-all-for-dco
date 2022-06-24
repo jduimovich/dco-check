@@ -2,5 +2,7 @@
  #!/bin/bash
 SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-cat cached-repo-list |  xargs -n1 $SCRIPTDIR/repo-has-dco
+rm cached-results
+
+cat cached-repo-list |  xargs -n1 $SCRIPTDIR/repo-has-dco >>cached-results
 
