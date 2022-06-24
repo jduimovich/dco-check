@@ -28,3 +28,17 @@ jobs:
         run: |
           bash generate-xml > dco.xml
           cat dco.xml
+      - name: Direct Push Update 
+        run: | 
+          echo "Direct Push:"
+          git config --global user.name "Auto-Push[bot]"
+          git config --global user.email "auto-push@users.noreply.github.com" 
+          if git diff --quiet dco.xml; then
+            echo "No significant changes"
+          else 
+            echo "dco.xml Chances"
+            git add dco.xml
+            git commit -m "Direct Push to Repo"
+            git push
+          fi
+          
