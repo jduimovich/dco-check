@@ -25,7 +25,128 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/intellij-common-ui-test-library
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/intellij-knative
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/intellij-kubernetes
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/odo
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/quarkus-ls
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/service-binding-operator
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-extension-tester
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-java
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-microprofile
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-quarkus
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-xml
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-yaml
 	</url>
 	<contrib>
 		yes
@@ -850,17 +971,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/intellij-common-ui-test-library
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/intellij-dependency-analytics
 	</url>
 	<contrib>
@@ -873,28 +983,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/intellij-functions
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/intellij-knative
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/intellij-kubernetes
 	</url>
 	<contrib>
 		yes
@@ -1202,17 +1290,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/odo
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/odo-init-image
 	</url>
 	<contrib>
@@ -1379,17 +1456,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/pysmime
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/quarkus-ls
 	</url>
 	<contrib>
 		yes
@@ -1774,28 +1840,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/vscode-extension-tester
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-java
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/vscode-knative
 	</url>
 	<contrib>
@@ -1808,17 +1852,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/vscode-kubernetes-tools
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-microprofile
 	</url>
 	<contrib>
 		yes
@@ -1852,17 +1885,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/vscode-project-initializer
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-quarkus
 	</url>
 	<contrib>
 		yes
@@ -1951,28 +1973,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/vscode-wizard
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-xml
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-yaml
 	</url>
 	<contrib>
 		yes
