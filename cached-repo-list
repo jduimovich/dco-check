@@ -36,6 +36,7 @@ https://github.com/redhat-developer/code.quarkus.redhat.com-release
 https://github.com/redhat-developer/codeready-workspaces-deprecated
 https://github.com/redhat-developer/codeready-workspaces-operator
 https://github.com/redhat-developer/codeready-workspaces-workshop
+https://github.com/redhat-developer/console-gitops-plugin
 https://github.com/redhat-developer/cp-patterns
 https://github.com/redhat-developer/dcp-checker
 https://github.com/redhat-developer/design-manual-proto
@@ -63,6 +64,7 @@ https://github.com/redhat-developer/fus
 https://github.com/redhat-developer/git-service
 https://github.com/redhat-developer/gitops-backend
 https://github.com/redhat-developer/gitops-commit-status
+https://github.com/redhat-developer/gitops-generator
 https://github.com/redhat-developer/gitops-operator
 https://github.com/redhat-developer/gitops-repo-example
 https://github.com/redhat-developer/go-init
@@ -114,6 +116,7 @@ https://github.com/redhat-developer/opencompose
 https://github.com/redhat-developer/opencompose-old
 https://github.com/redhat-developer/openshift-actions
 https://github.com/redhat-developer/openshift-app-services-demos
+https://github.com/redhat-developer/openshift-app-services-demos-1
 https://github.com/redhat-developer/openshift-dd-ext
 https://github.com/redhat-developer/openshift-gitops-getting-started
 https://github.com/redhat-developer/openshift-jenkins-operator
