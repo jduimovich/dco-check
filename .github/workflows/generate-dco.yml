@@ -36,7 +36,7 @@ jobs:
           if git diff --quiet dco.xml; then
             echo "No changes to dco.xml"
           else 
-            echo "dco.xml Chances"
+            echo "dco.xml Changes"
             git add dco.xml
             git commit -m "Direct Push to Repo"
             git push
