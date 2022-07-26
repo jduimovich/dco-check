@@ -3,6 +3,17 @@
 <repositories>
 <repo>
 	<url>
+		https://github.com/redhat-developer/alizer
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/eclipse-theia
 	</url>
 	<contrib>
@@ -25,7 +36,29 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/intellij-common
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/intellij-common-ui-test-library
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/intellij-dependency-analytics
 	</url>
 	<contrib>
 		yes
@@ -58,6 +91,61 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/intellij-openshift-connector
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/intellij-quarkus
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/intellij-redhat-telemetry
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/intellij-tekton
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/new-project-template
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/odo
 	</url>
 	<contrib>
@@ -69,7 +157,51 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/openshift-dd-ext
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/quarkus-ls
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/rsp-client
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/rsp-server
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/rsp-server-community
 	</url>
 	<contrib>
 		yes
@@ -113,6 +245,17 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/vscode-knative
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/vscode-microprofile
 	</url>
 	<contrib>
@@ -124,7 +267,95 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/vscode-openshift-tools
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/vscode-quarkus
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-redhat-account
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-redhat-telemetry
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-rhoas
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-rsp-ui
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-server-connector
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-server-connector-api
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/vscode-wizard
 	</url>
 	<contrib>
 		yes
@@ -164,17 +395,6 @@
 	</contrib>
 	<dco>
 		yes
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/alizer
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
 	</dco>
 </repo>
 <repo>
@@ -586,6 +806,17 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/console-gitops-plugin
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/cp-patterns
 	</url>
 	<contrib>
@@ -642,6 +873,17 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/devconsole-operator
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/developer-cheat-sheets-copy-edits
 	</url>
 	<contrib>
 		yes
@@ -861,6 +1103,17 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/gitops-generator
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/gitops-operator
 	</url>
 	<contrib>
@@ -960,28 +1213,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/intellij-common
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/intellij-dependency-analytics
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/intellij-functions
 	</url>
 	<contrib>
@@ -993,51 +1224,7 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/intellij-openshift-connector
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/intellij-quarkus
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/intellij-redhat-telemetry
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/intellij-rsp
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/intellij-tekton
 	</url>
 	<contrib>
 		yes
@@ -1356,7 +1543,7 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/openshift-dd-ext
+		https://github.com/redhat-developer/openshift-app-services-demos-1
 	</url>
 	<contrib>
 		yes
@@ -1587,39 +1774,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/rsp-client
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/rsp-server
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/rsp-server-community
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/s2i-aspnet-musicstore-ex
 	</url>
 	<contrib>
@@ -1840,17 +1994,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/vscode-knative
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/vscode-kubernetes-tools
 	</url>
 	<contrib>
@@ -1873,17 +2016,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/vscode-openshift-tools
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/vscode-project-initializer
 	</url>
 	<contrib>
@@ -1895,84 +2027,7 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/vscode-redhat-account
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-redhat-telemetry
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-rhoas
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-rsp-ui
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-server-connector
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-server-connector-api
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/vscode-tekton
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/vscode-wizard
 	</url>
 	<contrib>
 		yes
