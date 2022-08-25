@@ -2,6 +2,7 @@ https://github.com/redhat-developer/alizer
 https://github.com/redhat-developer/almighty-core
 https://github.com/redhat-developer/app-labels
 https://github.com/redhat-developer/app-service
+https://github.com/redhat-developer/app-services-ansible
 https://github.com/redhat-developer/app-services-api-guidelines
 https://github.com/redhat-developer/app-services-cli
 https://github.com/redhat-developer/app-services-examples
@@ -11,9 +12,12 @@ https://github.com/redhat-developer/app-services-guides
 https://github.com/redhat-developer/app-services-openshift-console-plugin
 https://github.com/redhat-developer/app-services-operator
 https://github.com/redhat-developer/app-services-renovate-config
+https://github.com/redhat-developer/app-services-sdk-core
 https://github.com/redhat-developer/app-services-sdk-go
 https://github.com/redhat-developer/app-services-sdk-java
 https://github.com/redhat-developer/app-services-sdk-js
+https://github.com/redhat-developer/app-services-sdk-python
+https://github.com/redhat-developer/app-services-teraform-provider
 https://github.com/redhat-developer/app-services-tools
 https://github.com/redhat-developer/app-services-ui
 https://github.com/redhat-developer/app-services-ui-components
@@ -53,6 +57,7 @@ https://github.com/redhat-developer/devspaces
 https://github.com/redhat-developer/devspaces-chectl
 https://github.com/redhat-developer/devspaces-images
 https://github.com/redhat-developer/devspaces-jiralint
+https://github.com/redhat-developer/devspaces-python-language-server-cachito
 https://github.com/redhat-developer/devspaces-theia
 https://github.com/redhat-developer/devspaces-vscode-extensions
 https://github.com/redhat-developer/dotnet-bunny
@@ -109,6 +114,7 @@ https://github.com/redhat-developer/netcoredbg-theia-plugin
 https://github.com/redhat-developer/new-project-template
 https://github.com/redhat-developer/nfs-server
 https://github.com/redhat-developer/observability-operator
+https://github.com/redhat-developer/oc-helm
 https://github.com/redhat-developer/odo
 https://github.com/redhat-developer/odo-init-image
 https://github.com/redhat-developer/omnisharp-theia-plugin
@@ -124,6 +130,7 @@ https://github.com/redhat-developer/openshift-kustomizeconfigs
 https://github.com/redhat-developer/openshift-vsts
 https://github.com/redhat-developer/openshift-web-console-customizations
 https://github.com/redhat-developer/osd-monitor-poc
+https://github.com/redhat-developer/parodos
 https://github.com/redhat-developer/patternfly-elements
 https://github.com/redhat-developer/presentation-recording
 https://github.com/redhat-developer/pysmime

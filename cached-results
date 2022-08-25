@@ -2,6 +2,7 @@ https://github.com/redhat-developer/alizer: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/almighty-core: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-labels: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-service: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/app-services-ansible: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-api-guidelines: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-cli: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-examples: CONTRIBUTING.md:yes DCO:no
@@ -11,9 +12,12 @@ https://github.com/redhat-developer/app-services-guides: CONTRIBUTING.md:yes DCO
 https://github.com/redhat-developer/app-services-openshift-console-plugin: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-operator: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-renovate-config: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/app-services-sdk-core: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/app-services-sdk-go: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-sdk-java: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-sdk-js: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/app-services-sdk-python: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/app-services-teraform-provider: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-tools: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-ui: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-ui-components: CONTRIBUTING.md:yes DCO:no
@@ -36,7 +40,7 @@ https://github.com/redhat-developer/code.quarkus.redhat.com-release: CONTRIBUTIN
 https://github.com/redhat-developer/codeready-workspaces-deprecated: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/codeready-workspaces-operator: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/codeready-workspaces-workshop: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/console-gitops-plugin: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/console-gitops-plugin: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/cp-patterns: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/dcp-checker: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/design-manual-proto: CONTRIBUTING.md:yes DCO:no
@@ -53,6 +57,7 @@ https://github.com/redhat-developer/devspaces: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/devspaces-chectl: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/devspaces-images: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/devspaces-jiralint: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/devspaces-python-language-server-cachito: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/devspaces-theia: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/devspaces-vscode-extensions: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/dotnet-bunny: CONTRIBUTING.md:yes DCO:no
@@ -62,11 +67,11 @@ https://github.com/redhat-developer/dotnet-regular-tests: CONTRIBUTING.md:yes DC
 https://github.com/redhat-developer/eclipse-theia: CONTRIBUTING.md:yes DCO:yes
  https://github.com/redhat-developer/fus: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/git-service: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/gitops-backend: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/gitops-commit-status: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/gitops-generator: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/gitops-operator: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/gitops-repo-example: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/gitops-backend: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/gitops-commit-status: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/gitops-generator: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/gitops-operator: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/gitops-repo-example: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/go-init: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/gulp: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/helm: CONTRIBUTING.md:yes DCO:yes
@@ -96,7 +101,7 @@ https://github.com/redhat-developer/jenkins-operator-manifests: CONTRIBUTING.md:
 https://github.com/redhat-developer/jetbrains-editor-images: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/k8s-kubectl: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/k8s-sidecar: CONTRIBUTING.md:yes DCO:no
- https://github.com/redhat-developer/kam: CONTRIBUTING.md:yes DCO:no
+ https://github.com/redhat-developer/kam: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/kestrel-linux-transport: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/kubernetes: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/kubernetes-image-puller: CONTRIBUTING.md:yes DCO:no
@@ -108,7 +113,8 @@ https://github.com/redhat-developer/moksha-monitor-exporter: CONTRIBUTING.md:yes
 https://github.com/redhat-developer/netcoredbg-theia-plugin: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/new-project-template: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/nfs-server: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/observability-operator: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/observability-operator: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/oc-helm: CONTRIBUTING.md:yes DCO:no
  https://github.com/redhat-developer/odo: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/odo-init-image: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/omnisharp-theia-plugin: CONTRIBUTING.md:yes DCO:no
@@ -118,12 +124,13 @@ https://github.com/redhat-developer/openshift-actions: CONTRIBUTING.md:yes DCO:n
 https://github.com/redhat-developer/openshift-app-services-demos: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/openshift-app-services-demos-1: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/openshift-dd-ext: CONTRIBUTING.md:yes DCO:yes
-https://github.com/redhat-developer/openshift-gitops-getting-started: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/openshift-gitops-getting-started: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/openshift-jenkins-operator: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/openshift-kustomizeconfigs: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/openshift-vsts: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/openshift-web-console-customizations: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/osd-monitor-poc: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/parodos: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/patternfly-elements: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/presentation-recording: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/pysmime: CONTRIBUTING.md:yes DCO:no
