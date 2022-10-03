@@ -14,7 +14,84 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/app-services-sdk-core
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/console-gitops-plugin
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/eclipse-theia
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/gitops-backend
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/gitops-commit-status
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/gitops-generator
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/gitops-operator
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/gitops-repo-example
 	</url>
 	<contrib>
 		yes
@@ -135,7 +212,29 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/kam
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/new-project-template
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/observability-operator
 	</url>
 	<contrib>
 		yes
@@ -158,6 +257,28 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/openshift-dd-ext
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/openshift-gitops-getting-started
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/parodos
 	</url>
 	<contrib>
 		yes
@@ -432,6 +553,17 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/app-services-ansible
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/app-services-api-guidelines
 	</url>
 	<contrib>
@@ -554,6 +686,28 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/app-services-sdk-js
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/app-services-sdk-python
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/app-services-teraform-provider
 	</url>
 	<contrib>
 		yes
@@ -806,17 +960,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/console-gitops-plugin
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/cp-patterns
 	</url>
 	<contrib>
@@ -993,6 +1136,17 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/devspaces-python-language-server-cachito
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/devspaces-theia
 	</url>
 	<contrib>
@@ -1071,61 +1225,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/git-service
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/gitops-backend
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/gitops-commit-status
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/gitops-generator
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/gitops-operator
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/gitops-repo-example
 	</url>
 	<contrib>
 		yes
@@ -1345,17 +1444,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/kam
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/kestrel-linux-transport
 	</url>
 	<contrib>
@@ -1466,7 +1554,7 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/observability-operator
+		https://github.com/redhat-developer/oc-helm
 	</url>
 	<contrib>
 		yes
@@ -1544,17 +1632,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/openshift-app-services-demos-1
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/openshift-gitops-getting-started
 	</url>
 	<contrib>
 		yes
