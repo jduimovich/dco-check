@@ -17,7 +17,6 @@ https://github.com/redhat-developer/app-services-sdk-go: CONTRIBUTING.md:yes DCO
 https://github.com/redhat-developer/app-services-sdk-java: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-sdk-js: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-sdk-python: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/app-services-teraform-provider: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-tools: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-ui: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/app-services-ui-components: CONTRIBUTING.md:yes DCO:no
@@ -40,7 +39,6 @@ https://github.com/redhat-developer/code.quarkus.redhat.com-release: CONTRIBUTIN
 https://github.com/redhat-developer/codeready-workspaces-deprecated: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/codeready-workspaces-operator: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/codeready-workspaces-workshop: CONTRIBUTING.md:yes DCO:no
-https://github.com/redhat-developer/console-gitops-plugin: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/cp-patterns: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/dcp-checker: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/design-manual-proto: CONTRIBUTING.md:yes DCO:no
@@ -71,6 +69,7 @@ https://github.com/redhat-developer/gitops-backend: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/gitops-commit-status: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/gitops-generator: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/gitops-operator: CONTRIBUTING.md:yes DCO:yes
+https://github.com/redhat-developer/gitops-plugin: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/gitops-repo-example: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/go-init: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/gulp: CONTRIBUTING.md:yes DCO:no
@@ -153,6 +152,7 @@ https://github.com/redhat-developer/s2i-aspnet-musicstore-ex: CONTRIBUTING.md:ye
 https://github.com/redhat-developer/s2i-dotnetcore: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/s2i-dotnetcore-ex: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/s2i-dotnetcore-persistent-ex: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/samples-templates-automation: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/sbo-services-investigation: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/service-binding-operator: CONTRIBUTING.md:yes DCO:yes
 https://github.com/redhat-developer/service-binding-operator-helm-chart: CONTRIBUTING.md:yes DCO:no
@@ -162,6 +162,7 @@ https://github.com/redhat-developer/srs-fleet-manager: CONTRIBUTING.md:yes DCO:n
 https://github.com/redhat-developer/stickers: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/tekton-chatops-example: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/tekton-hub: CONTRIBUTING.md:yes DCO:no
+https://github.com/redhat-developer/terraform-provider-rhoas: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/topology-example: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/traefik: CONTRIBUTING.md:yes DCO:no
 https://github.com/redhat-developer/vertx-quickstart-eventbus-msa: CONTRIBUTING.md:yes DCO:no

@@ -17,7 +17,6 @@ https://github.com/redhat-developer/app-services-sdk-go
 https://github.com/redhat-developer/app-services-sdk-java
 https://github.com/redhat-developer/app-services-sdk-js
 https://github.com/redhat-developer/app-services-sdk-python
-https://github.com/redhat-developer/app-services-teraform-provider
 https://github.com/redhat-developer/app-services-tools
 https://github.com/redhat-developer/app-services-ui
 https://github.com/redhat-developer/app-services-ui-components
@@ -40,7 +39,6 @@ https://github.com/redhat-developer/code.quarkus.redhat.com-release
 https://github.com/redhat-developer/codeready-workspaces-deprecated
 https://github.com/redhat-developer/codeready-workspaces-operator
 https://github.com/redhat-developer/codeready-workspaces-workshop
-https://github.com/redhat-developer/console-gitops-plugin
 https://github.com/redhat-developer/cp-patterns
 https://github.com/redhat-developer/dcp-checker
 https://github.com/redhat-developer/design-manual-proto
@@ -71,6 +69,7 @@ https://github.com/redhat-developer/gitops-backend
 https://github.com/redhat-developer/gitops-commit-status
 https://github.com/redhat-developer/gitops-generator
 https://github.com/redhat-developer/gitops-operator
+https://github.com/redhat-developer/gitops-plugin
 https://github.com/redhat-developer/gitops-repo-example
 https://github.com/redhat-developer/go-init
 https://github.com/redhat-developer/gulp
@@ -153,6 +152,7 @@ https://github.com/redhat-developer/s2i-aspnet-musicstore-ex
 https://github.com/redhat-developer/s2i-dotnetcore
 https://github.com/redhat-developer/s2i-dotnetcore-ex
 https://github.com/redhat-developer/s2i-dotnetcore-persistent-ex
+https://github.com/redhat-developer/samples-templates-automation
 https://github.com/redhat-developer/sbo-services-investigation
 https://github.com/redhat-developer/service-binding-operator
 https://github.com/redhat-developer/service-binding-operator-helm-chart
@@ -162,6 +162,7 @@ https://github.com/redhat-developer/srs-fleet-manager
 https://github.com/redhat-developer/stickers
 https://github.com/redhat-developer/tekton-chatops-example
 https://github.com/redhat-developer/tekton-hub
+https://github.com/redhat-developer/terraform-provider-rhoas
 https://github.com/redhat-developer/topology-example
 https://github.com/redhat-developer/traefik
 https://github.com/redhat-developer/vertx-quickstart-eventbus-msa
