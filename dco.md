@@ -1,3 +1,6 @@
+## DCO Stats
+Converted: 47 Missing 150
+
 | Repo | Contrib | DCO |
 | --- | --- | --- | 
 |  https://github.com/redhat-developer/alizer |  yes| yes  |

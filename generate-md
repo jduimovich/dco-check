@@ -12,7 +12,17 @@ function printmd() {
     printf "|  %s |  %s| %s |\n"   "$REPO"   "$C"   "$DCO "
  
 }
-  
+
+
+ CONVERTED=$(grep "DCO:yes" cached-results | wc -l)
+ MISSING=$(grep -v "DCO:yes" cached-results | wc -l) 
+ 
+TOTAL=$(echo "$CONVERTED+$MISSING" | bc ) 
+PERCENT_FAIL=$(echo "scale=0; $FAIL*100/$TOTAL" | bc) 
+PERCENT_PASS=$(echo "scale=0; $PASS*100/$TOTAL" | bc) 
+ 
+printf '## DCO Stats\n' 
+printf 'Converted: %s (%s) Missing: %s  (%s) \n\n' $CONVERTED $PERCENT_FAIL $MISSING $PERCENT_PASS
 
 printf '| Repo | Contrib | DCO |\n'
 printf '| --- | --- | --- | \n' 
