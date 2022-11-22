@@ -25,20 +25,19 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       - name: Generate DCO report file
-        run: |
-          bash generate-xml > dco.xml
+        run: | 
           bash generate-md > dco.md
-          cat dco.xml
+          cat dco.md
       - name: Direct Push Update 
         run: | 
           echo "Direct Push:"
           git config --global user.name "Auto-Push[bot]"
           git config --global user.email "auto-push@users.noreply.github.com" 
-          if git diff --quiet dco.xml; then
-            echo "No changes to dco.xml"
+          if git diff --quiet dco.md; then
+            echo "No changes to dco.md"
           else 
-            echo "dco.xml Changes"
-            git add dco.xml
+            echo "dco.md Changes"
+            git add dco.md
             git commit -m "Direct Push to Repo"
             git push
           fi
