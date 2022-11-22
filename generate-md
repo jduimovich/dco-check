@@ -22,7 +22,7 @@ PERCENT_FAIL=$(echo "scale=0; $FAIL*100/$TOTAL" | bc)
 PERCENT_PASS=$(echo "scale=0; $PASS*100/$TOTAL" | bc) 
  
 printf '## DCO Stats\n' 
-printf 'Converted: %s (%s) Missing: %s  (%s) \n\n' $CONVERTED $PERCENT_FAIL $MISSING $PERCENT_PASS
+printf 'Converted: %s (%s) Missing: %s (%s) \n\n' "$CONVERTED" "$PERCENT_PASS" "$MISSING" "$PERCENT_FAIL"
 
 printf '| Repo | Contrib | DCO |\n'
 printf '| --- | --- | --- | \n' 
