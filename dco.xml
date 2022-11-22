@@ -25,17 +25,6 @@
 </repo>
 <repo>
 	<url>
-		https://github.com/redhat-developer/console-gitops-plugin
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		yes
-	</dco>
-</repo>
-<repo>
-	<url>
 		https://github.com/redhat-developer/eclipse-theia
 	</url>
 	<contrib>
@@ -81,6 +70,17 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/gitops-operator
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		yes
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/gitops-plugin
 	</url>
 	<contrib>
 		yes
@@ -697,17 +697,6 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/app-services-sdk-python
-	</url>
-	<contrib>
-		yes
-	</contrib>
-	<dco>
-		no
-	</dco>
-</repo>
-<repo>
-	<url>
-		https://github.com/redhat-developer/app-services-teraform-provider
 	</url>
 	<contrib>
 		yes
@@ -1895,6 +1884,17 @@
 </repo>
 <repo>
 	<url>
+		https://github.com/redhat-developer/samples-templates-automation
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
 		https://github.com/redhat-developer/sbo-services-investigation
 	</url>
 	<contrib>
@@ -1973,6 +1973,17 @@
 <repo>
 	<url>
 		https://github.com/redhat-developer/tekton-hub
+	</url>
+	<contrib>
+		yes
+	</contrib>
+	<dco>
+		no
+	</dco>
+</repo>
+<repo>
+	<url>
+		https://github.com/redhat-developer/terraform-provider-rhoas
 	</url>
 	<contrib>
 		yes
