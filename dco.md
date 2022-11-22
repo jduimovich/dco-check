@@ -1,5 +1,5 @@
 ## DCO Stats
-Converted: 47 (150) Missing:   () 
+Converted: 47 () Missing: 150 () 
 
 | Repo | Contrib | DCO |
 | --- | --- | --- | 
