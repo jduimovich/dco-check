@@ -4,6 +4,7 @@ https://github.com/redhat-developer/app-labels
 https://github.com/redhat-developer/app-service
 https://github.com/redhat-developer/app-services-ansible
 https://github.com/redhat-developer/app-services-api-guidelines
+https://github.com/redhat-developer/app-services-backstage
 https://github.com/redhat-developer/app-services-cli
 https://github.com/redhat-developer/app-services-examples
 https://github.com/redhat-developer/app-services-go-linter
@@ -39,6 +40,7 @@ https://github.com/redhat-developer/code.quarkus.redhat.com-release
 https://github.com/redhat-developer/codeready-workspaces-deprecated
 https://github.com/redhat-developer/codeready-workspaces-operator
 https://github.com/redhat-developer/codeready-workspaces-workshop
+https://github.com/redhat-developer/consoledot-e2e
 https://github.com/redhat-developer/cp-patterns
 https://github.com/redhat-developer/dcp-checker
 https://github.com/redhat-developer/design-manual-proto
@@ -53,6 +55,7 @@ https://github.com/redhat-developer/devfile-registry
 https://github.com/redhat-developer/devfile-sample
 https://github.com/redhat-developer/devspaces
 https://github.com/redhat-developer/devspaces-chectl
+https://github.com/redhat-developer/devspaces-demo
 https://github.com/redhat-developer/devspaces-images
 https://github.com/redhat-developer/devspaces-jiralint
 https://github.com/redhat-developer/devspaces-python-language-server-cachito
@@ -67,14 +70,15 @@ https://github.com/redhat-developer/fus
 https://github.com/redhat-developer/git-service
 https://github.com/redhat-developer/gitops-backend
 https://github.com/redhat-developer/gitops-commit-status
+https://github.com/redhat-developer/gitops-console-plugin
 https://github.com/redhat-developer/gitops-generator
 https://github.com/redhat-developer/gitops-operator
-https://github.com/redhat-developer/gitops-plugin
 https://github.com/redhat-developer/gitops-repo-example
 https://github.com/redhat-developer/go-init
 https://github.com/redhat-developer/gulp
 https://github.com/redhat-developer/helm
 https://github.com/redhat-developer/helm-acceptance-testing
+https://github.com/redhat-developer/helm-backstage
 https://github.com/redhat-developer/helm-dump
 https://github.com/redhat-developer/helm-quickstarts
 https://github.com/redhat-developer/helm-repository-service
@@ -135,6 +139,7 @@ https://github.com/redhat-developer/presentation-recording
 https://github.com/redhat-developer/pysmime
 https://github.com/redhat-developer/quarkus-ls
 https://github.com/redhat-developer/reactive-microservices-in-java
+https://github.com/redhat-developer/redhat-backstage-build
 https://github.com/redhat-developer/redhat-datagrid-tutorials
 https://github.com/redhat-developer/redhat-helm-charts
 https://github.com/redhat-developer/redhat-sso-boms
