@@ -27,6 +27,7 @@ jobs:
       - name: Generate DCO report file
         run: |
           bash generate-xml > dco.xml
+          bash generate-md > dco.md
           cat dco.xml
       - name: Direct Push Update 
         run: | 

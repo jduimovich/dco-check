@@ -1,0 +1,28 @@
+
+ #!/bin/bash
+SCRIPTDIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+
+function printmd() {
+    line=$1
+    REPO=$(echo $line | cut -d ' ' -f 1)
+    REPO=${REPO%:*}
+    C=$(echo $line | cut -d ' ' -f 2 | cut -d ':' -f 2) 
+    DCO=$(echo $line | cut -d ' ' -f 3 | cut -d ':' -f 2) 
+ 
+    printf "|  %s |  %s| %s |\n"   "$REPO"   "$C"   "$DCO "
+ 
+}
+  
+
+printf '| Repo | Contrib | DCO |\n'
+printf '| --- | --- | --- | \n' 
+
+grep "DCO:yes" cached-results | while read line ;
+do 
+printmd "$line"
+done 
+grep -v "DCO:yes" cached-results | while read line ;
+do 
+printmd "$line"
+done  
+
